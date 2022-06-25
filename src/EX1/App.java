@@ -34,6 +34,7 @@ public class App {
         restaurantsList.add(new Restaurant(1, "McDonalds"));
         restaurantsList.add(new Restaurant(3, "El méxicano"));
         restaurantsList.add(new Restaurant(6, "La Tagliatella"));
+        restaurantsList.add(new Restaurant(8, "Pepe"));
         restaurantsList.add(new Restaurant(5, "Pepe"));
         restaurantsList.add(new Restaurant(5, "Pepe"));
         restaurantsList.add(new Restaurant(5, "Juan"));

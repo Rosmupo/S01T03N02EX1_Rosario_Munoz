@@ -30,7 +30,8 @@ public class Restaurant {
     }
 
     @Override
-    public String toString(){
-        return "La puntuación del restaurante es: " + score + ". El nombre del restaurante es " + name + "\n";
+    public String toString() {
+        return
+                "Restaurante name = '" + name + '\'' + ". Score = " + score +"." + "\n";
     }
 }
